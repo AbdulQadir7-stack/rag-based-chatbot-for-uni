@@ -1,0 +1,567 @@
+{
+  "metrics": {
+    "HitRate@1": 0.9831,
+    "MRR": 0.9831,
+    "count": 59,
+    "by_collection": {
+      "ajku_academic": {
+        "HitRate@1": 1.0,
+        "MRR": 1.0,
+        "count": 12
+      },
+      "ajku_admission": {
+        "HitRate@1": 1.0,
+        "MRR": 1.0,
+        "count": 15
+      },
+      "ajku_complaint": {
+        "HitRate@1": 1.0,
+        "MRR": 1.0,
+        "count": 7
+      },
+      "ajku_exam": {
+        "HitRate@1": 1.0,
+        "MRR": 1.0,
+        "count": 12
+      },
+      "ajku_scholarship": {
+        "HitRate@1": 0.9231,
+        "MRR": 0.9231,
+        "count": 13
+      }
+    }
+  },
+  "details": [
+    {
+      "query": "UAJK mein admission ka process kaise hota hai?",
+      "collection": "ajku_admission",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_admission_0",
+      "top_rerank_score": 8.822803497314453,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK admission forms kab open hote hain?",
+      "collection": "ajku_admission",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_admission_1",
+      "top_rerank_score": 8.328961372375488,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK admission ki last date kaise check karte hain?",
+      "collection": "ajku_admission",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_admission_2",
+      "top_rerank_score": 8.196086883544922,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK mein online admission apply kaise karte hain?",
+      "collection": "ajku_admission",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_admission_3",
+      "top_rerank_score": 8.468488693237305,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Admission form ke liye documents kya chahiye?",
+      "collection": "ajku_admission",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_admission_4",
+      "top_rerank_score": 7.723515033721924,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK admission fee kitni hoti hai?",
+      "collection": "ajku_admission",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_admission_5",
+      "top_rerank_score": 7.874204635620117,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "BS admission ke liye minimum percentage kitni chahiye?",
+      "collection": "ajku_admission",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_admission_6",
+      "top_rerank_score": 9.22829532623291,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK merit kaise calculate hota hai?",
+      "collection": "ajku_admission",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_admission_7",
+      "top_rerank_score": 8.777685165405273,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Entry test mandatory hota hai?",
+      "collection": "ajku_admission",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_admission_8",
+      "top_rerank_score": 8.028369903564453,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK merit list kaha lagti hai?",
+      "collection": "ajku_admission",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_admission_12",
+      "top_rerank_score": 8.103338241577148,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK self finance seats available hoti hain?",
+      "collection": "ajku_admission",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_admission_16",
+      "top_rerank_score": 8.675315856933594,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK admission status kaise check karte hain?",
+      "collection": "ajku_admission",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_admission_46",
+      "top_rerank_score": 8.254364967346191,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK hostel admission kaise hota hai?",
+      "collection": "ajku_admission",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_admission_50",
+      "top_rerank_score": 8.639616012573242,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK MS admission ke liye GAT required hota hai?",
+      "collection": "ajku_admission",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_admission_81",
+      "top_rerank_score": 8.868361473083496,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK PhD admission requirements kya hain?",
+      "collection": "ajku_admission",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_admission_82",
+      "top_rerank_score": 9.07227897644043,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK mein scholarships ka kya system hai?",
+      "collection": "ajku_scholarship",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_scholarship_0",
+      "top_rerank_score": 8.390981674194336,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Scholarships kab apply ki jati hain?",
+      "collection": "ajku_scholarship",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_scholarship_1",
+      "top_rerank_score": 8.069595336914062,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Scholarship kaise milti hai?",
+      "collection": "ajku_scholarship",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_scholarship_2",
+      "top_rerank_score": 7.510891914367676,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Merit scholarship kya hoti hai?",
+      "collection": "ajku_scholarship",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_scholarship_5",
+      "top_rerank_score": 7.626808166503906,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Merit scholarship ka CGPA requirement kya hota hai?",
+      "collection": "ajku_scholarship",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_scholarship_6",
+      "top_rerank_score": 8.558820724487305,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Need based scholarship kya hoti hai?",
+      "collection": "ajku_scholarship",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_scholarship_10",
+      "top_rerank_score": 8.63574504852295,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Need based scholarship kaise apply karte hain?",
+      "collection": "ajku_scholarship",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_scholarship_11",
+      "top_rerank_score": 8.630582809448242,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "HEC scholarship kaise apply karte hain?",
+      "collection": "ajku_scholarship",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_scholarship_16",
+      "top_rerank_score": 8.395600318908691,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "HEC scholarship mein stipend milta hai?",
+      "collection": "ajku_scholarship",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_scholarship_18",
+      "top_rerank_score": 8.279892921447754,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Scholarship form kahan se milta hai?",
+      "collection": "ajku_scholarship",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_scholarship_30",
+      "top_rerank_score": 7.535290718078613,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Scholarship ke liye documents kya required hotay hain?",
+      "collection": "ajku_scholarship",
+      "hit_at_1": 0.0,
+      "reciprocal_rank": 0.0,
+      "top_doc_id": "ajku_admission_19",
+      "top_rerank_score": 6.780777454376221,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Scholarship renew kaise hoti hai?",
+      "collection": "ajku_scholarship",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_scholarship_50",
+      "top_rerank_score": 8.190673828125,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Scholarship delay ho jaye to kya karein?",
+      "collection": "ajku_scholarship",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_scholarship_55",
+      "top_rerank_score": 8.920398712158203,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK mein exams kab hotay hain?",
+      "collection": "ajku_exam",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_exam_0",
+      "top_rerank_score": 8.127778053283691,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK ka exam system kya hai?",
+      "collection": "ajku_exam",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_exam_1",
+      "top_rerank_score": 7.725208282470703,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Midterm aur final exams ka difference kya hai?",
+      "collection": "ajku_exam",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_exam_2",
+      "top_rerank_score": 8.633705139160156,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Exams ka schedule kahan milta hai?",
+      "collection": "ajku_exam",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_exam_3",
+      "top_rerank_score": 7.182704448699951,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Roll number slip kahan se milti hai?",
+      "collection": "ajku_exam",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_exam_4",
+      "top_rerank_score": 7.685453414916992,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Exam hall mein kya allowed hai?",
+      "collection": "ajku_exam",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_exam_10",
+      "top_rerank_score": 8.592985153198242,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Mobile phone exam mein allowed hai?",
+      "collection": "ajku_exam",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_exam_11",
+      "top_rerank_score": 4.911518096923828,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Exam mein baithne ke liye attendance kitni chahiye?",
+      "collection": "ajku_exam",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_exam_15",
+      "top_rerank_score": 8.502826690673828,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Roll number slip kab issue hoti hai?",
+      "collection": "ajku_exam",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_exam_20",
+      "top_rerank_score": 7.777653694152832,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Passing marks kitne hotay hain?",
+      "collection": "ajku_exam",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_academic_15",
+      "top_rerank_score": 8.015312194824219,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Result kab announce hota hai?",
+      "collection": "ajku_exam",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_exam_35",
+      "top_rerank_score": 8.642989158630371,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "CGPA improve kaise karein?",
+      "collection": "ajku_exam",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_exam_44",
+      "top_rerank_score": 8.641068458557129,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK mein BS programs kitne saal ke hote hain?",
+      "collection": "ajku_academic",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_academic_2",
+      "top_rerank_score": 8.818389892578125,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK mein semester system hai?",
+      "collection": "ajku_academic",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_academic_3",
+      "top_rerank_score": 8.547967910766602,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK mein hostel facility available hai?",
+      "collection": "ajku_academic",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_academic_4",
+      "top_rerank_score": 9.047258377075195,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK ki degree HEC recognized hai?",
+      "collection": "ajku_academic",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_academic_6",
+      "top_rerank_score": 8.752836227416992,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK mein MS programs available hain?",
+      "collection": "ajku_academic",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_academic_10",
+      "top_rerank_score": 9.092987060546875,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK mein semester freeze kar sakte hain?",
+      "collection": "ajku_academic",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_academic_12",
+      "top_rerank_score": 8.381490707397461,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK mein CGPA kaise calculate hota hai?",
+      "collection": "ajku_academic",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_academic_14",
+      "top_rerank_score": 8.39152717590332,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK mein library available hai?",
+      "collection": "ajku_academic",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_academic_20",
+      "top_rerank_score": 9.04998779296875,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK mein internships milti hain?",
+      "collection": "ajku_academic",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_academic_25",
+      "top_rerank_score": 8.311525344848633,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK mein transcript kaise milti hai?",
+      "collection": "ajku_academic",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_academic_29",
+      "top_rerank_score": 7.749843120574951,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK mein BSCS available hai?",
+      "collection": "ajku_academic",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_academic_45",
+      "top_rerank_score": 8.900810241699219,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "UAJK mein plagiarism policy kya hai?",
+      "collection": "ajku_academic",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_academic_58",
+      "top_rerank_score": 8.782468795776367,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "University ka phone number kya hai?",
+      "collection": "ajku_complaint",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_complaint_0",
+      "top_rerank_score": 10.740663528442383,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "University ka email kya hai?",
+      "collection": "ajku_complaint",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_complaint_1",
+      "top_rerank_score": 8.490736961364746,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Complaint kahan file karein?",
+      "collection": "ajku_complaint",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_complaint_2",
+      "top_rerank_score": 8.30984115600586,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "DSA ka contact number kya hai?",
+      "collection": "ajku_complaint",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_complaint_3",
+      "top_rerank_score": 9.936613082885742,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Neelum Campus ka contact kya hai?",
+      "collection": "ajku_complaint",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_complaint_4",
+      "top_rerank_score": 9.403219223022461,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Vice Chancellor ko direct complaint kaise karein?",
+      "collection": "ajku_complaint",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_complaint_5",
+      "top_rerank_score": 8.532707214355469,
+      "rerank_method": "cross_encoder"
+    },
+    {
+      "query": "Kya Code of Conduct for students hai?",
+      "collection": "ajku_complaint",
+      "hit_at_1": 1.0,
+      "reciprocal_rank": 1.0,
+      "top_doc_id": "ajku_complaint_6",
+      "top_rerank_score": 8.988031387329102,
+      "rerank_method": "cross_encoder"
+    }
+  ]
+}

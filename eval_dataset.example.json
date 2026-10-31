@@ -1,0 +1,14 @@
+[
+  {
+    "query": "admission last date kab hai",
+    "collection": "ajku_admission",
+    "expected_text": "last date",
+    "reference_answer": "Admission ki last date official admission notice mein mention hoti hai."
+  },
+  {
+    "query": "PEEF scholarship ke liye apply kaise karein",
+    "collection": "ajku_scholarship",
+    "expected_text": "peef",
+    "reference_answer": "PEEF scholarship ke liye eligibility aur application process scholarship office se confirm karein."
+  }
+]
